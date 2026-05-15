@@ -136,7 +136,7 @@ async def update_home_tab(client, event, logger):
                                     "type": "plain_text",
                                     "text": "Launch KMS in browser",
                                 },
-                                "url": "https://kms.block.science",
+                                "url": "https://kms.dynamicalsystemsgroup.com",
                             }
                         ],
                     },

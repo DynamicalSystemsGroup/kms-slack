@@ -3,7 +3,7 @@ SOURCES_PER_QUESTION = 12
 DB_PATH = "db/chats.db"
 DEFAULT_DM_MODE = "conversational"
 PLACEHOLDERS = [
-    "Tapping into the BlockScience hive mind... :bee:",
+    "Tapping into the Dynamical Systems Group hive mind... :bee:",
     "Exploring the mycelial network... :mushroom:",
     "Channeling my inner Zargham... :party-wizard:",
     "Communing with the spirits of Stafford Beer... :ghost::beer:",
